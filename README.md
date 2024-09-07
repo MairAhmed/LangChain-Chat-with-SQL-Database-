@@ -17,9 +17,9 @@ Dynamic Querying: Users can input SQL-like queries in natural language to retrie
 
 # Demo:
 
-Installation
+Installation part
 
-Prerequisites
+Prerequisites:
 
 Python 3.8+
 
